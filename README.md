@@ -3,15 +3,15 @@
 This project was created for fun and to try and recreate the popular game Flappy Bird. 
 In Config.h you will see some configuration variables you can mess with to test different things. One variable regenerates the binary game data, and another chooses to load the binary game data or the regular game data.
 
-Some features:
-. Frame Rate independence (fixed time step with interpolation rendering)
-. Screen Size independence (game scales with screen)
-. OpenGL rendering with multiple version support 3.0+
-. Binary game data export/import
-. Protected save file (hashing)
-. Error log output
-. Configuration file support
-. Audio
+## Features
+- Frame Rate independence (fixed time step with interpolation rendering)
+- Screen Size independence (game scales with screen)
+- OpenGL rendering with multiple version support 3.0+
+- Binary game data export/import
+- Protected save file (hashing)
+- Error log output
+- Configuration file support
+- Audio
 
 -Dependencies-
 GLM: GLM math library is used. Its already included in the Src/ThirdParty directory

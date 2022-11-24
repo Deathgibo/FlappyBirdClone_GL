@@ -3,6 +3,8 @@
 This project was created for fun and to try and recreate the popular game Flappy Bird. 
 In Config.h you will see some configuration variables you can mess with to test different things. One variable regenerates the binary game data, and another chooses to load the binary game data or the regular game data.
 
+https://www.dropbox.com/s/lhkcwmjyfvpjxh9/FlappyBird.zip?dl=0
+
 ## Features
 - Frame Rate independence (fixed time step with interpolation rendering)
 - Screen Size independence (game scales with screen)
@@ -18,8 +20,7 @@ In Config.h you will see some configuration variables you can mess with to test 
 - STBI: this image loading library is used. Its already included in the Src/ThirdParty directory
 - GLEW (version 2.1.0): is used to load OpenGL functions. Is available on cross-platform
 - GLFW (version 3.3): is used for window handling, and event handling. Is available on cross-platform
-- irrKlang (version 1.6.0): Audio library. Is available on cross-platform
-*also need irrKlang.dll in running directory
+- irrKlang (version 1.6.0): Audio library. Is available on cross-platform. Requires irrKlang.dll in running directory
 
 - This game runs on x64 bit. All dependencies support x64.
 

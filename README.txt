@@ -26,3 +26,8 @@ This game runs on x64 bit. All dependencies support x64.
 Currently only runs on Windows platform. If you build libraries for other operating systems should work. The internal code has no OS dependencies.
 
 OpenGL Versions supported are 3.0 and up. 
+
+
+<img width="314" alt="git_1" src="https://user-images.githubusercontent.com/33635742/203861469-441995bd-7d1d-48bb-8789-b766bf42653d.png">
+<img width="315" alt="git_2" src="https://user-images.githubusercontent.com/33635742/203861472-86d6c428-6b11-47a7-b52e-81ca5bc4f491.png">
+<img width="315" alt="git_3" src="https://user-images.githubusercontent.com/33635742/203861476-7d54da81-b3c6-4283-9277-951bcdaf44f2.png">

@@ -1,0 +1,15 @@
+WINDOW_TYPE= 0          //0-WINDOWED, 1-FULLSCREEN
+SCREEN_WIDTH= 633       //(only applicable on windowed mode)
+SCREEN_HEIGHT= 847      //(only applicable on windowed mode)
+REFRESH_RATE= 3         //0-60, 1-100, 2-120, 3-144, 4-240 (only applicable on fullscreen mode)
+VSYNC= 0                //0-disable, 1-enable
+MULTISAMPLE_COUNT= 2    //values usually range between 0 and 16
+TEXTURE_QUALITY= 1      //0-Low, 1-High
+ENABLE_AUDIO= 1         //0-DISABLE, 1-ENABLE
+MASTER_VOLUME= 25       //0 is silent, 100 full volume
+DISPLAY_FPS= 0          //0-DISABLE, 1-ENABLE
+
+***Only change values in this file.
+If anything else changes default values
+will be used and file will be recreated.
+If you want to reset just destroy file ***

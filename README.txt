@@ -1,4 +1,4 @@
-Flappy Bird Clone
+# Flappy Bird Clone
 
 This project was created for fun and to try and recreate the popular game Flappy Bird. 
 In Config.h you will see some configuration variables you can mess with to test different things. One variable regenerates the binary game data, and another chooses to load the binary game data or the regular game data.
